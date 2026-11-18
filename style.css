@@ -1,0 +1,45 @@
+body {
+    background-color: #4B0082;
+    font-size: 140%;
+}
+
+h2 {
+    text-align: center;
+    color: #87CEFA;
+}
+
+#content {
+    width: 1300px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    background-color: #87CEFA;
+}
+
+#board {
+    display: block;
+    float: left;
+    margin: 0 20px;
+    border: 3px solid black;
+    width: 75mm;
+    height: 53mm;
+}
+
+p {
+    margin-bottom: 75px;
+}
+
+table {
+    width: 1275px;
+    margin: 0 auto;
+}
+
+tr, td {
+    width: 50%;
+}
+
+#def, #step {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    height: 253px;
+}
